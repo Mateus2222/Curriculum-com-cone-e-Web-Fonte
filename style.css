@@ -1,0 +1,87 @@
+@font-face {
+  font-family: Audiowide;
+  src: url(Audiowide-Regular.ttf);
+}
+
+#launch {
+          font-size:1rem;
+          line-height:1.5rem;
+          
+}
+.btn{
+      font-size: 1.3rem;
+}
+.btn:hover{
+      color: white;
+      background-color:darkblue;
+      text-decoration: none;
+}
+#social{
+  text-align:center;
+  font-size: 2em;
+  color: white;
+}
+.facebook .linkedin {
+  color: navy;
+}
+.twitter{
+  color:dodgerblue;
+}
+
+body {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 17px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#copyright {
+  font-weight: bold;
+  font-style: italic;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color:  black;
+}
+
+h2 {
+  border-radius: 5px;
+  font-size:24px;
+  background-color: unset;
+}
+
+h1, h2, a, a:visited {
+  color: darkblue;
+}
+
+a, a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h1 a, h1 a:visited {
+  color: white;
+}
+h2 a, h2 a:visited {
+  color: lightskyblue;
+}
+h1:hover a, h2:hover a {
+  color: darkblue;
+}
+p {
+  line-height:1.5em;
+}
+#person {
+  font-family: 'Audiowide', cursive;
+  font-size:30px;
+  text-align:left;
+}
+.topo{
+  color:white;
+}
